@@ -1,4 +1,3 @@
-# Jason X. Liu
 
 ## About
 
