@@ -4,9 +4,11 @@
 
 Postdoctoral Research Fellow in Chemical Engineering at Stanford University. I study the assembly and processing of soft materials, with applications ranging from targeted drug delivery to sustainable manufacturing. Previously, I completed my PhD and MA in Mechanical Engineering at Princeton University, and my BA in Physics at UC Berkeley.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jxliu2)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8ePDvssAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-liu-aba40a104/)
+[GitHub](https://github.com/jxliu2)
+
+[Google Scholar](https://scholar.google.com/citations?user=8ePDvssAAAAJ&hl=en)
+
+[LinkedIn](https://www.linkedin.com/in/jason-liu-aba40a104/)
 
 ---
 
